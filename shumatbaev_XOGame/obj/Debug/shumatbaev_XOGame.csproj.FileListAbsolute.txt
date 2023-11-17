@@ -1,0 +1,15 @@
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\bin\Debug\shumatbaev_XOGame.exe.config
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\bin\Debug\shumatbaev_XOGame.exe
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\bin\Debug\shumatbaev_XOGame.pdb
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.csproj.AssemblyReference.cache
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\MainWindow.g.cs
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\App.g.cs
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame_MarkupCompile.cache
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame_MarkupCompile.lref
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\MainWindow.baml
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.g.resources
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.Properties.Resources.resources
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.csproj.GenerateResource.cache
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.csproj.CoreCompileInputs.cache
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.exe
+C:\Users\st310-09\Desktop\shumatbaev\shumatbaev_XOGame\shumatbaev_XOGame\obj\Debug\shumatbaev_XOGame.pdb
